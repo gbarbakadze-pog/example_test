@@ -1,4 +1,2 @@
-
 color=green
 background_color=red
->>>>>>> a0d67cd (add color)
